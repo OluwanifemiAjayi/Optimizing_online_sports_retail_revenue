@@ -1,4 +1,4 @@
-# An Analysis done to Optimize the Revenue of an Online Sports Retail Store
+# Analysis to Optimize the Revenue of an Online Sports Retail Store
 
 ## Project Outline 
 
