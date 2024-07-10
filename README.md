@@ -8,7 +8,7 @@
 4. Conclusion
 
 ## 1. Introduction
-This is an SQL capstone project from Datacamp, it involved analyzing data from a PostgreSQL database containing information about online sports retails. The goal was to gather insights into various aspects such as product descriptions, pricing, reviews, and traffic. The analysis, as shown in this [Jupyter Notebook](https://github.com/OluwanifemiAjayi/Optimizing_online_sports_retail_revenue/blob/main/notebook.ipynb) was performed by extracting, joining, and manipulating data from different tables within the database.
+This is an SQL capstone project from Datacamp, it involved analyzing data from a PostgreSQL database containing information about online sports retail. The goal was to gather insights into various aspects such as product descriptions, pricing, reviews, and traffic. The analysis, as shown in this [Jupyter Notebook](https://github.com/OluwanifemiAjayi/Optimizing_online_sports_retail_revenue/blob/main/notebook.ipynb) was performed by extracting, joining, and manipulating data from different tables within the database.
 
 The tables involved in this analysis are:
 
@@ -47,7 +47,7 @@ I focused on analyzing products related to footwear. By creating a Common Table 
 I extended the footwear analysis to other clothing products by excluding footwear descriptions. By joining the info and finance tables on product_id, I calculated the number of clothing products and their median revenue. This step provided insights into the financial performance of non-footwear clothing products.
 
 ## 4. Conclusion
-The analysis conducted through these SQL queries provides a comprehensive understanding of product data from various perspectives, including description length, pricing, reviews, and revenue. By joining and aggregating data from multiple tables, valuable insights were gained into the relationships between different product attributes and their financial performance. 
+The analysis conducted through these SQL queries provides a comprehensive understanding of the online sports retail data from various perspectives, including description length, pricing, reviews, and revenue. By joining and aggregating data from multiple tables, valuable insights were gained into the relationships between different product attributes and their financial performance. 
 
 ## Relevant Links
 - [Jupyter Notebook](https://github.com/OluwanifemiAjayi/Optimizing_online_sports_retail_revenue/blob/main/notebook.ipynb)
